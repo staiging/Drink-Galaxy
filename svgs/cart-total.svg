@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="37" viewBox="0 0 106 37">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g fill="#016479" transform="translate(-1055 -955) translate(930) translate(125 955)">
+                        <rect width="97" height="37" rx="18.5"/>
+                        <path d="M89.567 11L82 18.5 89.567 26 106 18.5z"/>
+                    </g>
+                    <text fill="#FFF" font-family="ModestoPoster-Regular, Modesto Poster" font-size="15" font-weight="800" letter-spacing=".054" transform="translate(-1055 -955) translate(930) translate(125 955)">
+                        <tspan x="25.619" y="23">TOTAL</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
